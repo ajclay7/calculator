@@ -1,0 +1,14 @@
+.calculator {
+	max-width: 450px;
+}
+
+.buttons {
+	display: flex;
+	flex-direction: column;
+}
+
+.col {
+	flex: 1;
+
+	display: flex;
+}
